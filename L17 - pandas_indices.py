@@ -1,4 +1,7 @@
-# What do I need to know about the pandas index?
+# L17 - What do I need to know about the pandas index? Part 1
+# https://www.youtube.com/watch?v=OYZNk7Z9s6I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=17
+# L18 - Part 2
+# https://www.youtube.com/watch?v=15q-is8P_H4&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=18
 
 import pandas as pd
 

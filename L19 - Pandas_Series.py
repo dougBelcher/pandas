@@ -1,4 +1,5 @@
-# How do I select a pandas Series from a dataframe
+# L19 - How do I select a pandas Series from a dataframe
+# https://www.youtube.com/watch?v=xvpNA7bC8cs&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=19
 
 import pandas as pd
 

@@ -1,4 +1,4 @@
-# How do I find and remove duplicate rows in pandas?
+# L26 - How do I find and remove duplicate rows in pandas?
 # https://www.youtube.com/watch?v=ht5buXUMqkQ&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=26
 
 import pandas as pd

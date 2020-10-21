@@ -1,5 +1,5 @@
 # Pandas_Excel_3.py
-# Easy Spreadsheet Data Analyis Methods
+# Easy Spreadsheet Data Analysis Methods
 
 import pandas as pd
 

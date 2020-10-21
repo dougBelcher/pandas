@@ -1,4 +1,5 @@
-# How Do I Filter rows of Pandas DataFrame by Column Dat
+# L8 - How Do I Filter rows of Pandas DataFrame by Column Dat
+# https://www.youtube.com/watch?v=2AFGPdNn4FM&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=8
 
 import pandas as pd
 

@@ -1,4 +1,4 @@
-# How do i change display options in pandas?
+# L28 - How do i change display options in pandas?
 # https://www.youtube.com/watch?v=yiO43TQ4xvc&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=28
 
 import pandas as pd
