@@ -1,4 +1,4 @@
-# How do I crete dummy variables in pandas
+# How do I create dummy variables in pandas
 # https://www.youtube.com/watch?v=0s_1IsROgDc&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=24
 
 import pandas as pd
